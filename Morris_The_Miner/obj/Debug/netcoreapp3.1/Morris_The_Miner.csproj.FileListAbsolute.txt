@@ -1,0 +1,13 @@
+C:\Users\jona444j\source\repos\Morris_The_Miner\Morris_The_Miner\obj\Debug\netcoreapp3.1\Morris_The_Miner.csprojAssemblyReference.cache
+C:\Users\jona444j\source\repos\Morris_The_Miner\Morris_The_Miner\obj\Debug\netcoreapp3.1\Morris_The_Miner.AssemblyInfoInputs.cache
+C:\Users\jona444j\source\repos\Morris_The_Miner\Morris_The_Miner\obj\Debug\netcoreapp3.1\Morris_The_Miner.AssemblyInfo.cs
+C:\Users\jona444j\source\repos\Morris_The_Miner\Morris_The_Miner\obj\Debug\netcoreapp3.1\Morris_The_Miner.csproj.CoreCompileInputs.cache
+C:\Users\jona444j\source\repos\Morris_The_Miner\Morris_The_Miner\bin\Debug\netcoreapp3.1\Morris_The_Miner.exe
+C:\Users\jona444j\source\repos\Morris_The_Miner\Morris_The_Miner\bin\Debug\netcoreapp3.1\Morris_The_Miner.deps.json
+C:\Users\jona444j\source\repos\Morris_The_Miner\Morris_The_Miner\bin\Debug\netcoreapp3.1\Morris_The_Miner.runtimeconfig.json
+C:\Users\jona444j\source\repos\Morris_The_Miner\Morris_The_Miner\bin\Debug\netcoreapp3.1\Morris_The_Miner.runtimeconfig.dev.json
+C:\Users\jona444j\source\repos\Morris_The_Miner\Morris_The_Miner\bin\Debug\netcoreapp3.1\Morris_The_Miner.dll
+C:\Users\jona444j\source\repos\Morris_The_Miner\Morris_The_Miner\bin\Debug\netcoreapp3.1\Morris_The_Miner.pdb
+C:\Users\jona444j\source\repos\Morris_The_Miner\Morris_The_Miner\obj\Debug\netcoreapp3.1\Morris_The_Miner.dll
+C:\Users\jona444j\source\repos\Morris_The_Miner\Morris_The_Miner\obj\Debug\netcoreapp3.1\Morris_The_Miner.pdb
+C:\Users\jona444j\source\repos\Morris_The_Miner\Morris_The_Miner\obj\Debug\netcoreapp3.1\Morris_The_Miner.genruntimeconfig.cache
